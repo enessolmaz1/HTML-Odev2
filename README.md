@@ -1,2 +1,2 @@
 # HTML-Odev2
-HTML ikinci ödevim
+HTML Front-End eğitimi kapsamında yaptığım ikinci ödevin.
